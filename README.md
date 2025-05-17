@@ -14,9 +14,11 @@
 
 ```bash
 supabase functions deploy get_contents --no-verify-jwt
+```
 
 ## ❤️‍🔥 各種APIの叩き方
 
 ```bash
-//コンテンツ一覧取得
+// コンテンツ一覧取得
 curl "https://blxnjvqjqbimgcdeptbr.functions.supabase.co/get_contents"
+```
